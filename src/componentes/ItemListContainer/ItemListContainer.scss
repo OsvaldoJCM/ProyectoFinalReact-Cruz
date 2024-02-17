@@ -1,0 +1,13 @@
+.greeting {
+    text-align: center;
+    font-size: 25px;
+}
+
+.itemListContainer {
+
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+
+}
